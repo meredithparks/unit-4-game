@@ -1,0 +1,42 @@
+body {
+    background-color;
+}
+
+h1 {
+    font-size: 32px;
+    background: plum;
+    text-align: center;
+    padding: 5px;
+}
+
+.image {
+    margin-top: 10px;
+    margin-left: 25px;
+    width: 80px;
+    height: 80px;
+}
+
+#randomNumber{
+    font-size: 15px;
+    background-color:burlywood;
+    padding: 15px;
+    display: inline-block;
+
+
+}
+
+#match{
+    font-size: 15px;
+    background-color:burlywood;
+    padding: 15px;
+
+
+}
+
+#score{
+    font-size: 15px;
+    background-color: burlywood;
+    padding: 15px;
+    display: inline-block;
+
+}
